@@ -6,6 +6,6 @@ public class test
         System.out.println("Aomine Daiki is a fraud");
         System.out.println("HEYYY HEYYY HEYYYYYY!");
         System.out.println("SUGAAAAAAAAAAA");
-        System.out.println("TSUKKIIIIIII");
+        System.out.println("TS");
     }
 }
