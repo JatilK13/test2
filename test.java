@@ -7,6 +7,6 @@ public class test
         System.out.println("HEYYY HEYYY HEYYYYYY!");
         System.out.println("SUGAAAAAAAAAAA");
         System.out.println("TS");
-        System.out.println("Is that the dude who got his girl stolen");
+        System.out.println("Is that the dude who got his girl snagged");
     }
 }
